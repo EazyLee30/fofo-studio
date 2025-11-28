@@ -4,7 +4,9 @@
 
 A phygital platform integrating Web3, AIGC, and street culture.
 
-[English](./README.md) | [中文简体](./README.zh-CN.md)
+## 🌍 Languages / 语言
+
+**[English](./README.md)** (Default) | [中文简体](./README.zh-CN.md) | [日本語](./docs/ja/README.md) | [한국어](./docs/ko/README.md) | [繁體中文](./docs/zh-TW/README.md) | [Español](./docs/es/README.md) | [עברית](./docs/he/README.md) | [Tiếng Việt](./docs/vi/README.md) | [ไทย](./docs/th/README.md) | [Монгол](./docs/mn/README.md) | [Deutsch](./docs/de/README.md) | [Français](./docs/fr/README.md)
 
 ---
 
@@ -43,7 +45,7 @@ fofo-studio/
 
 ### For Investors/Partners
 
-👉 Read the [Whitepaper](./docs/en/whitepaper.md) (English) or [白皮书](./docs/zh-CN/whitepaper.md) (中文) to understand the full project
+👉 Read the [Whitepaper](./docs/en/whitepaper.md) to understand the full project
 
 ### For Developers
 
@@ -55,18 +57,26 @@ fofo-studio/
 
 ## Documentation Navigation
 
-### English Documentation
+### English Documentation (Default)
 
-- 📘 [Whitepaper](./docs/en/whitepaper.md) - Project overview & vision
-- 📚 [Documentation Center](./docs/en/README.md) - All documentation index
+- 📘 [Whitepaper](./docs/en/whitepaper.md) - Complete project whitepaper
+- 📚 [Documentation Center](./docs/en/README.md) - All English documentation
 
-### 中文文档
+### Other Languages
 
-- 📘 [白皮书](./docs/zh-CN/whitepaper.md) - 项目概述与愿景
-- 🏗️ [架构设计](./docs/zh-CN/architecture.md) - 技术架构详解
-- 📋 [产品需求](./docs/zh-CN/product-requirements.md) - 功能需求文档
-- 🎨 [品牌指南](./docs/zh-CN/brand-guidelines.md) - 视觉识别系统
-- 📚 [文档中心](./docs/zh-CN/README.md) - 所有文档索引
+- 📘 [中文简体](./docs/zh-CN/README.md) - 完整中文文档
+- 📘 [日本語](./docs/ja/README.md) - 日本語ドキュメント
+- 📘 [한국어](./docs/ko/README.md) - 한국어 문서
+- 📘 [繁體中文](./docs/zh-TW/README.md) - 繁體中文文件
+- 📘 [Español](./docs/es/README.md) - Documentación en español
+- 📘 [עברית](./docs/he/README.md) - תיעוד בעברית
+- 📘 [Tiếng Việt](./docs/vi/README.md) - Tài liệu tiếng Việt
+- 📘 [ไทย](./docs/th/README.md) - เอกสารภาษาไทย
+- 📘 [Монгол](./docs/mn/README.md) - Монгол баримт бичиг
+- 📘 [Deutsch](./docs/de/README.md) - Deutsche Dokumentation
+- 📘 [Français](./docs/fr/README.md) - Documentation en français
+
+See [Documentation Index](./docs/README.md) for all languages.
 
 ## 项目状态
 

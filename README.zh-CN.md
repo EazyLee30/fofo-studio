@@ -4,7 +4,9 @@
 
 一个融合 Web3、AIGC 与潮流文化的虚实结合平台。
 
-[English](./README.md) | [中文简体](./README.zh-CN.md)
+## 🌍 语言选择
+
+[English](./README.md) (Default) | [中文简体](./README.zh-CN.md) | [日本語](./docs/ja/README.md) | [한국어](./docs/ko/README.md) | [繁體中文](./docs/zh-TW/README.md) | [Español](./docs/es/README.md) | [עברית](./docs/he/README.md) | [Tiếng Việt](./docs/vi/README.md) | [ไทย](./docs/th/README.md) | [Монгол](./docs/mn/README.md) | [Deutsch](./docs/de/README.md) | [Français](./docs/fr/README.md)
 
 ---
 

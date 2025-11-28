@@ -4,8 +4,18 @@ Welcome to FOFO Studio documentation! This is a global project with multi-langua
 
 ## 🌍 Languages / 语言
 
-- [English](./en/README.md) - English documentation
+- **[English](./en/README.md)** - English documentation (Default)
 - [中文简体](./zh-CN/README.md) - 中文文档
+- [日本語](./ja/README.md) - 日本語ドキュメント
+- [한국어](./ko/README.md) - 한국어 문서
+- [繁體中文](./zh-TW/README.md) - 繁體中文文件
+- [Español](./es/README.md) - Documentación en español
+- [עברית](./he/README.md) - תיעוד בעברית
+- [Tiếng Việt](./vi/README.md) - Tài liệu tiếng Việt
+- [ไทย](./th/README.md) - เอกสารภาษาไทย
+- [Монгол](./mn/README.md) - Монгол баримт бичиг
+- [Deutsch](./de/README.md) - Deutsche Dokumentation
+- [Français](./fr/README.md) - Documentation en français
 
 ## 📚 Quick Links
 

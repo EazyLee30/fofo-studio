@@ -70,6 +70,10 @@ FOFO Studio is a phygital platform that integrates **Web3, AIGC (AI-Generated Co
 >
 > But we stand **For Others** — to build the community, to share the alpha, to lift each other up when the candles turn red.
 
+> 在波动的世界里，我们为自己而战——为了收益，为了风格，为了在崩盘中幸存。
+>
+> 但我们为他人而立——为了社区，为了分享情报，为了在K线翻红时互相拉一把。
+
 ### Brand Slogans
 
 - **"Trade Together, Win Alone"**
@@ -554,4 +558,3 @@ Let us together find balance in chaos and create value between altruism and self
 ---
 
 *This whitepaper will be continuously updated as the project develops. Visit the official website for the latest version.*
-

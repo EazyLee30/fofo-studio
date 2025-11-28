@@ -17,21 +17,21 @@ Welcome to the FOFO Studio Documentation Center! This is the entry point for all
    - Business Model & Roadmap
    - **Recommended first read**
 
-2. **[Architecture Design](./architecture.md)** (Coming Soon)
+2. **[Architecture Design](./architecture.md)**
    - System Architecture Overview
    - Detailed Tech Stack
    - Data Model Design
    - Security & Performance Optimization
    - **Required reading for development team**
 
-3. **[Product Requirements (PRD)](./product-requirements.md)** (Coming Soon)
+3. **[Product Requirements (PRD)](./product-requirements.md)**
    - Detailed Feature Requirements
    - User Flow Design
    - UI/UX Design Requirements
    - Data Analysis Requirements
    - **Required reading for product managers**
 
-4. **[Brand Guidelines](./brand-guidelines.md)** (Coming Soon)
+4. **[Brand Guidelines](./brand-guidelines.md)**
    - Visual Identity System
    - Brand Tone & Style
    - Application Scenario Standards

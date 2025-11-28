@@ -78,19 +78,20 @@ fofo-studio/
 
 See [Documentation Index](./docs/README.md) for all languages.
 
-## 项目状态
+## Project Status
 
-🚧 **项目初期阶段** - 文档与规划阶段
+🚧 **Early Stage** - Documentation & Planning Phase
 
-当前进度：
-- ✅ 品牌定位与白皮书
-- ✅ 技术架构设计
-- ✅ 产品需求文档
-- ⏳ 开发中...
+Current Progress:
+- ✅ Brand positioning and whitepaper
+- ✅ Technical architecture design
+- ✅ Product requirements document
+- ✅ Brand guidelines
+- ⏳ Development in progress...
 
-## 贡献
+## Contributing
 
-欢迎贡献代码、文档或提出建议！
+Contributions to code, documentation, or suggestions are welcome!
 
 ## License
 

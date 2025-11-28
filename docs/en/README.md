@@ -109,7 +109,7 @@ To add or modify documentation:
 
 ### Related Links
 
-- [Project GitHub Repository](../../README.md)
+- [Project GitHub Repository](https://github.com/EazyLee30/fofo-studio)
 - [Official Website](https://www.fofostudio.io) (Coming Soon)
 - [Discord Community](https://discord.gg/fofostudio)
 - [Twitter](https://twitter.com/FOFOStudio)

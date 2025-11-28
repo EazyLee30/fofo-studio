@@ -2,41 +2,71 @@
 
 **For Others, For Ourselves**
 
-一个融合 Web3、AIGC 与潮流文化的虚实结合平台。
+A phygital platform integrating Web3, AIGC, and street culture.
 
-## 项目简介
+[English](./README.md) | [中文简体](./README.zh-CN.md)
 
-FOFO Studio 是一个先锋的"潮流文化交易所"，将数字时代的骑士精神与去中心化的集体主义相结合，为用户提供独一无二的 AI 生成 NFT 实体产品体验。
+---
 
-## 核心特性
+## Project Overview
 
-- 🤖 **The Neural Mint** - AI 生成 NFT 并实体化
-- 🎨 **虚实引擎** - Prompt to Product 协议
-- 👥 **Alpha DAO** - 社区共创与版税分享
-- 🛍️ **The Market** - 赛博朋克风格电商平台
-- 💰 **Web3 支付** - 支持加密货币支付
+FOFO Studio is a pioneering "Culture Exchange" that combines digital-age chivalry with decentralized collectivism, providing users with unique AI-generated NFT physical product experiences.
 
-## 项目结构
+## Core Features
+
+- 🤖 **The Neural Mint** - AI-generated NFT and physicalization
+- 🎨 **Phygital Engine** - Prompt to Product protocol
+- 👥 **Alpha DAO** - Community co-creation and royalty sharing
+- 🛍️ **The Market** - Cyberpunk-style e-commerce platform
+- 💰 **Web3 Payment** - Cryptocurrency payment support
+
+## Project Structure
 
 ```
 fofo-studio/
-├── README.md           # 项目说明
-├── docs/               # 文档目录
-│   └── whitepaper.md   # 完整白皮书
-└── LICENSE             # 开源协议
+├── README.md              # Project overview (English)
+├── README.zh-CN.md        # 项目说明 (中文)
+├── docs/                  # Documentation directory
+│   ├── en/                # English documentation
+│   │   ├── README.md
+│   │   └── whitepaper.md
+│   └── zh-CN/             # Chinese documentation
+│       ├── README.md
+│       ├── whitepaper.md
+│       ├── architecture.md
+│       ├── product-requirements.md
+│       └── brand-guidelines.md
+└── LICENSE                # Open source license
 ```
 
-## 快速开始
+## Quick Start
 
-查看 [完整白皮书](./docs/whitepaper.md) 了解项目详情。
+### For Investors/Partners
 
-## 文档导航
+👉 Read the [Whitepaper](./docs/en/whitepaper.md) (English) or [白皮书](./docs/zh-CN/whitepaper.md) (中文) to understand the full project
 
-- 📘 [白皮书](./docs/whitepaper.md) - 项目概述与愿景
-- 🏗️ [架构设计](./docs/architecture.md) - 技术架构详解
-- 📋 [产品需求](./docs/product-requirements.md) - 功能需求文档
-- 🎨 [品牌指南](./docs/brand-guidelines.md) - 视觉识别系统
-- 📚 [文档中心](./docs/README.md) - 所有文档索引
+### For Developers
+
+👉 Read the [Architecture Design](./docs/zh-CN/architecture.md) to understand technical implementation
+
+### For Product/Design Teams
+
+👉 Read the [Product Requirements](./docs/zh-CN/product-requirements.md) and [Brand Guidelines](./docs/zh-CN/brand-guidelines.md)
+
+## Documentation Navigation
+
+### English Documentation
+
+- 📘 [Whitepaper](./docs/en/whitepaper.md) - Project overview & vision
+- 📚 [Documentation Center](./docs/en/README.md) - All documentation index
+
+### 中文文档
+
+- 📘 [白皮书](./docs/zh-CN/whitepaper.md) - 项目概述与愿景
+- 🏗️ [架构设计](./docs/zh-CN/architecture.md) - 技术架构详解
+- 📋 [产品需求](./docs/zh-CN/product-requirements.md) - 功能需求文档
+- 🎨 [品牌指南](./docs/zh-CN/brand-guidelines.md) - 视觉识别系统
+- 📚 [文档中心](./docs/zh-CN/README.md) - 所有文档索引
 
 ## 项目状态
 
